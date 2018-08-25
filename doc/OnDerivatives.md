@@ -244,3 +244,5 @@ bool operator()(const double* parameters, double* residuals) const;
 template <typename T> bool operator()(const T* parameters, T* residuals) const;
 ```
 
+## 参考
+
